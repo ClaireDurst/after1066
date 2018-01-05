@@ -1,0 +1,20 @@
+.w3-container {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.jumbotron {
+	background-image: url("crushedsilkbackground.jpg");
+	    background-size: 1510px 450px;
+}
+
+.coverwords {
+	text-align: center;
+	font-family: "Calligraffitti";
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+color: #ffffff;
+}
