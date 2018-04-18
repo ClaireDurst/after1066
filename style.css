@@ -4,17 +4,18 @@
 }
 
 .jumbotron {
-	background-image: url("crushedsilkbackground.jpg");
-	    background-size: 1510px 450px;
+	background-image: url("jgcoverimage.png");
+	    background-size: 1510px 550px;
+	    width: 1510px;
+	    height: 550px
 }
 
 .coverwords {
 	text-align: center;
-	font-family: "Calligraffitti";
-	font-size: 50px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
-color: #ffffff;
+font-family: 'Dancing Script', cursive;
+size: 20000000px
 }
